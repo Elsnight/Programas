@@ -14,7 +14,7 @@ ciudades = ["Quito", "Guayaquil", "Cuenca", "Loja", "Machala"]
 dias_semana = ["Lunes", "Martes", "Miércoles", "Jueves", "Viernes", "Sábado", "Domingo"]
 
 # Número de semanas
-semanas = 2  # Usamos 2 semanas como ejemplo
+semanas = 4  # Usamos 2 semanas como ejemplo
 
 
 def obtener_temperatura(ciudad):
