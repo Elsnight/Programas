@@ -65,5 +65,6 @@ def calcular_promedio_temperatura(temperaturas, ciudades, semanas, dias_semana):
         else:
             print(f"No se pudo calcular el promedio para {ciudad} debido a la falta de datos.")
 
+#llamado a la funcion
 calcular_promedio_temperatura(temperaturas, ciudades, semanas, dias_semana)
 # Output esperado:
