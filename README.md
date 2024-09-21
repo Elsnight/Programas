@@ -10,7 +10,7 @@ Se subira los trabajos de la materia de programacion.
 2. Tarea de la semana 13 Desarrollo de Función para Calcular Temperaturas Promedio en Python
    Archivo (`promedio_tem.py`)
 
-3. Tarea de la semana 13 Desarrollo de Función para Calcular Temperaturas Promedio en Python
+3. Tarea de la semana 14 Desarrollo de Función para Calcular Temperaturas Promedio en Python
    Archivo (`descuento_compras.py`)
 
 ## Requisitos
