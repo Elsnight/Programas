@@ -1,4 +1,5 @@
 lista_compras = []
+valor_descuento = 10
 
 def crear_lista_compras():
     
@@ -19,9 +20,13 @@ def mostrar_lista_compras(lista_compras):
     for i, (producto, precio) in enumerate(lista_compras, 1):
         print(f"{i}. {producto}: {precio}")
 
+def calcular_descuento(total,valor_descuento):
+    descuento = (total * valor_descuento)/100
+    return descuento
+
 def generar_factura(lista_compras):
     total = sum(precio for producto, precio in lista_compras)
-    descuento = total * 0.10
+    descuento = calcular_descuento(total,valor_descuento)
     total_final = total - descuento
     print("\n========== FACTURA ==========")
     print("==============================")
