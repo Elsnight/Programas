@@ -1,0 +1,3 @@
+Primera nota: Aprender Python es divertido eduardo.
+Segunda nota: Me encanta automatizar tareas.
+Tercera nota: ¡Los archivos de texto son útiles!

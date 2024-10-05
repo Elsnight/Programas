@@ -16,6 +16,9 @@ Se subira los trabajos de la materia de programacion.
 4. Tarea de la semana 15 Trabajando con Diccionarios en Python
    Archivo(`informacion_personal.py`)
 
+5. Tarea de la semana 16 Trabajo con Archivos de Texto en Python
+   Archivo(`archivos_pithon.py`)
+
 ## Requisitos
 
 Lista de las herramientas y librerías necesarias para correr este proyecto. Por ejemplo:
