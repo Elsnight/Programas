@@ -13,6 +13,9 @@ Se subira los trabajos de la materia de programacion.
 3. Tarea de la semana 14 Desarrollo de Función para Calcular Temperaturas Promedio en Python
    Archivo (`descuento_compras.py`)
 
+4. Tarea de la semana 15 Trabajando con Diccionarios en Python
+   Archivo(`informacion_personal.py`)
+
 ## Requisitos
 
 Lista de las herramientas y librerías necesarias para correr este proyecto. Por ejemplo:
